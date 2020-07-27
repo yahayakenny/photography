@@ -22,8 +22,9 @@ body {
 }
 
 
-h4 {
-    font-family: 'Elsie';
+h2 {
+  font-family: "Raleway";
+  font-weight: bold;
   }
 
 
@@ -244,8 +245,8 @@ h6:before {
     margin-bottom: 0px;
   }
 
-  .contact p {
-    font-family: "Lato";
+  .contact h2 {
+    font-family: "Raleway";
   }
   
   .contact .grey-color {
